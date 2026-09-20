@@ -1,4 +1,4 @@
-# ISA-Platform
+# Instruction set architecture (ISA)
 This repository is dedicated for deposite of content about hartwares, firmawares and low-level system design.
 ## Summary
 - Machines: Classic vs Advanced
